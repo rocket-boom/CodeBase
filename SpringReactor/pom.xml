@@ -8,7 +8,12 @@
         <version>1.0-Release</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
     <artifactId>SpringReactor</artifactId>
 
 
