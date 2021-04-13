@@ -9,8 +9,5 @@
         <module name="SpringReactor" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CodeBase" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331f1851-6c35-43fa-90bb-b086b750731d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Flux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/FluxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeBase.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringReactor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringReactor/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -23,17 +28,104 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="396">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Flux.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringReactor/pom.xml">
+        <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/io/projectreactor/reactor-core/3.3.9.RELEASE/reactor-core-3.3.9.RELEASE.jar!/reactor/core/publisher/Flux.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="1759" column="28" selection-start-line="1759" selection-start-column="28" selection-end-line="1759" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/io/projectreactor/reactor-core/3.3.9.RELEASE/reactor-core-3.3.9.RELEASE.jar!/reactor/core/Disposable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/FluxArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar!/org/reactivestreams/Publisher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -59,14 +151,27 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Readme.md" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SpringReactor/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/FluxArray.java" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Flux.java" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Main.java" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/ReactorTest.java" />
+        <option value="$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Base.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-193" />
-    <option name="y" value="330" />
+    <option name="x" value="20" />
+    <option name="y" value="-17" />
     <option name="width" value="1936" />
     <option name="height" value="1095" />
   </component>
@@ -122,6 +227,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="reactorLearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBase" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringReactor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reactorLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="myFlux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBase" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringReactor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reactorLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="reactor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -129,9 +254,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618324708262" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618328261475" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -156,7 +282,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Base">
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reactorLearning.reactor.Base" />
+      <module name="SpringReactor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reactorLearning.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reactorLearning.myFlux.Main" />
+      <module name="SpringReactor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reactorLearning.myFlux.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="CodeBase" />
       <working_directory value="$PROJECT_DIR$" />
@@ -176,6 +328,12 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -188,18 +346,27 @@
       <option name="presentableId" value="Default" />
       <updated>1618322997670</updated>
       <workItem from="1618323000247" duration="1295000" />
-      <workItem from="1618324342426" duration="315000" />
+      <workItem from="1618324342426" duration="3802000" />
     </task>
+    <task id="LOCAL-00001" summary="add dependency">
+      <created>1618324750266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618324750266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1610000" />
+    <option name="totallyTimeSpent" value="5097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6203554" visible="true" weight="0.2260128" />
-      <window_info id="Structure" order="1" sideWeight="0.3796446" side_tool="true" visible="true" weight="0.2260128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61989343" visible="true" weight="0.2260128" />
+      <window_info id="Structure" order="1" sideWeight="0.38010657" side_tool="true" visible="true" weight="0.2260128" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -208,19 +375,19 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3894081" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38937092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45503792" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="GenProtobuf" order="7" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="GenProtobuf" order="7" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22451194" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3286334" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="Websocket Client" order="17" />
@@ -241,6 +408,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dependency" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CodeBase.iml" />
     <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning.java" />
@@ -254,17 +425,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="17" selection-end-column="47" />
+        <state relative-caret-position="117">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringReactor/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar!/org/reactivestreams/Publisher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/FluxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Flux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/myFlux/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/projectreactor/reactor-core/3.3.9.RELEASE/reactor-core-3.3.9.RELEASE.jar!/reactor/core/Disposable.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/projectreactor/reactor-core/3.3.9.RELEASE/reactor-core-3.3.9.RELEASE.jar!/reactor/core/publisher/Flux.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1759" column="28" selection-start-line="1759" selection-start-column="28" selection-end-line="1759" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/ReactorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringReactor/src/main/java/reactorLearning/reactor/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -345,6 +617,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: io.projectreactor:reactor-core:3.3.9.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
