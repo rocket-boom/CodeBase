@@ -28,7 +28,7 @@ public class FluxArray<T> extends Flux<T> {
             this.actual = actual;
             this.array = array;
         }
-
+        @Override
         public void request(long l) {
             if(canceled) {
                 return;
@@ -41,7 +41,7 @@ public class FluxArray<T> extends Flux<T> {
                 actual.onComplete();
             }
         }
-
+        @Override
         public void cancel() {
             this.canceled = true;
         }
