@@ -2,15 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>CodeBase</artifactId>
+        <groupId>krao</groupId>
+        <version>1.0-Release</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>krao</groupId>
-    <artifactId>CodeBase</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-Release</version>
-    <modules>
-        <module>SpringReactor</module>
-    </modules>
+    <artifactId>SpringReactor</artifactId>
 
 
 </project>
